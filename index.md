@@ -1,6 +1,6 @@
-## F4LC025's First CS193 Homework
+# F4LC025's First CS193 Homework
 
-# Some of my favorite things about CS193 are:
+## Some of my favorite things about CS193 are:
 - The class meets once a week
 - The homework is enjoyable (so far)
 
